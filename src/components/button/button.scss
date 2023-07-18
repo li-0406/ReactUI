@@ -1,0 +1,8 @@
+.button {
+  //border: 1px solid gray;
+
+  /* 其他 CSS 屬性 */
+  &:hover {
+    cursor: pointer;
+  }
+}
